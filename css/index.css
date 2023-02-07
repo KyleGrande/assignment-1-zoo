@@ -1,5 +1,16 @@
 body {
+  display: flex;
+  flex-flow: column;
+  align-content: center;
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: rgb(230, 211, 208);
   text-align: center;
 }
+.link{
+  display: flex;
+  flex-flow: column;
+}
+a{
+  padding: 5px;
+}
+
