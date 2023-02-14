@@ -3,3 +3,10 @@ body {
     background-color: silver;
     text-align: center;
 }
+
+.link {
+    background-color: white;
+    padding: 5px;
+    border-radius: 20%;
+    text-decoration: none;
+}
