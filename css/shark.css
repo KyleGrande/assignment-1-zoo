@@ -8,6 +8,13 @@ body {
     justify-content: center;
 }
 
-.body {
+.link {
+    background-color: white;
+    padding: 5px;
+    border-radius: 20%;
+    text-decoration: none;
+}
+
+.description {
     max-width: 500px;
 }
