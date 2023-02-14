@@ -1,0 +1,9 @@
+body {
+    font-family: Courier New;
+    background-color: rgb(231, 194, 130);
+    text-align: center;
+}
+
+img {
+    min-height: 400px;
+}
